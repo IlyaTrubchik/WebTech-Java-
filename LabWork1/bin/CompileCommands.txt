@@ -1,0 +1,2 @@
+E:\WebTech(Java)\Lab1\LabWork1\src\main\java\by\bsuir\webtech1\task9>javac -d E:\WebTech(Java)\Lab1\LabWork1\bin Main.java Basket.java Ball.java Color.java 
+E:\WebTech(Java)\Lab1\LabWork1\bin>java by.bsuir.webtech1.task9.Main
